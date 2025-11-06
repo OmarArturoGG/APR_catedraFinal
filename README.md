@@ -29,3 +29,7 @@ Byron Alexander Alfaro Ventura AV230883
 
 ![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+Base de datos: 
+
+
+[Uploading tutorias_udb (1).sql…]()
